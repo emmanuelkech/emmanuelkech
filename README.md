@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Emmanuel Ikechukwu
 
-- 🔭 I’m currently working on Flutter projects
+- 🔭 I’m currently working on Flutter and Kotlin projects
 - 👯 I’m looking to collaborate on mobile app development projects
 - 📫 How to reach me:
 
