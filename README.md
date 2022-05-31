@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Emmanuel Ikechukwu
 
-- 🔭 I’m currently a **S**oftware **D**eveloper
+- 🔭 I’m currently a Full-Stack Developer
 - 👯 I’m looking to collaborate with like minds
 - 📫 How to reach me:
 
