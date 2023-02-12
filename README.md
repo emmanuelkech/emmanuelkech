@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Emmanuel Ikechukwu
 
-- 🔭 I’m a Software Developer
+- 🔭 I’m a Data Analyst
 - 😄 Pronouns: He, Him
 - 👯 I’m looking to collaborate with like minds
 - 📫 How to reach me:
