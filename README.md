@@ -6,7 +6,7 @@
 - 📫 How to reach me:
 
 <p>
-  <a href="https://www.linkedin.com/in/emmanuel-ikechukwu-mcdaa-018032b4/" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/emmaikechukwu/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
 </p>
