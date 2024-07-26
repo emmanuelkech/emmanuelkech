@@ -7,7 +7,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/emmaikechukwu/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="LinkedIn">
+    <img src="https://images.app.goo.gl/fmaXRaTfJVpHSMd69" alt="LinkedIn">
     
   </a> &nbsp; 
 </p>
