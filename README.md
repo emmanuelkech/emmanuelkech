@@ -6,8 +6,9 @@
 - 📫 How to reach me:
 
 <p>
-  <a href="https://www.linkedin.com/in/emmaikechukwu/" rel="nofollow noreferrer">
-    <img src="[https://i.stack.imgur.com/gVE0j.png](https://www.flaticon.com/free-icon/linkedin_3536505)" alt="linkedin"> LinkedIn
+  <a href="[https://www.linkedin.com/in/emmaikechukwu/](https://www.linkedin.com/in/emmaikechukwu/)" rel="nofollow noreferrer">
+    <!--<img src="[https://i.stack.imgur.com/gVE0j.png](https://www.flaticon.com/free-icon/linkedin_3536505)" alt="linkedin">-->
+    LinkedIn
   </a> &nbsp; 
 </p>
 
